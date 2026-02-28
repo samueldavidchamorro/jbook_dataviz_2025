@@ -8,8 +8,12 @@ project:
   id: e94c380b-6f87-4cf8-83fe-8c915d16f35e
   toc:
     - file: content/index.md
-    - title: "Test"
+    - title: "Visualización de Datos"
       children:
         - file: content/test.ipynb
+
+execution:
+  allow_errors: false
+  stderr_output: remove
 
     
