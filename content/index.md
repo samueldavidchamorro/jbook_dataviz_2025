@@ -1,4 +1,4 @@
-# Mi Libro de DataViz
+# Juan Marin y Samuel Chamorro
 
 Bienvenido a mi libro.
 
