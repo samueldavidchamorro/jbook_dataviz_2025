@@ -8,7 +8,7 @@ project:
   id: e94c380b-6f87-4cf8-83fe-8c915d16f35e
   toc:
     - file: content/index.md
-    - title: "Visualización de Datos"
+    - title: "Indicadores de Desarrollo Educativo y Acceso Escolar Femeninos"
       children:
         - file: content/test.ipynb
 
