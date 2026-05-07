@@ -1,7 +1,7 @@
 {
   "input": {
     "files": [
-      "content"
+      "."
     ],
     "opts": {
       "execute": false,
