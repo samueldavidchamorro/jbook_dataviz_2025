@@ -1,10 +1,18 @@
-
 version: 1
 
 project:
   id: e94c380b-6f87-4cf8-83fe-8c915d16f35e
   title: "Análisis del Desarrollo Educativo y la Finalización Escolar Femenina"
   description: "Indicador SE.PRM.CMPT.FE.ZS · World Development Indicators (WDI) · 2000–2022"
+  authors:
+    - name: Samuel David Chamorro
+    - name: Juan David Marín
+  keywords:
+    - educación
+    - género
+    - banco mundial
+    - series de tiempo
+    - ARIMA
   toc:
     - file: content/index.md
     - title: "Indicadores Educativos"
@@ -13,16 +21,17 @@ project:
 
 site:
   template: book-theme
-  title: "Análisis Educativo - WDI"
-  logo: null
-  favicon: null
-  show_powered_by: false
-
-html:
-  use_issues_button: false
-  use_repository_button: false
-  favicon: null
+  title: "Análisis Educativo · WDI"
+  options:
+    favicon: null
+    logo_text: "Análisis Educativo"
+    show_powered_by: false
+    # Colores del tema
+    primary_color: "#1A6FC4"
+    secondary_color: "#0F4A8A"
+    accent_color:   "#E6A817"
 
 execution:
   allow_errors: false
   stderr_output: remove
+  timeout: 120
