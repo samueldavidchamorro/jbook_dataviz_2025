@@ -23,13 +23,9 @@ site:
   template: book-theme
   title: "Análisis Educativo · WDI"
   options:
-    favicon: null
     logo_text: "Análisis Educativo"
     show_powered_by: false
-    # Colores del tema
-    primary_color: "#1A6FC4"
-    secondary_color: "#0F4A8A"
-    accent_color:   "#E6A817"
+    collapse_navbar: false
 
 execution:
   allow_errors: false
