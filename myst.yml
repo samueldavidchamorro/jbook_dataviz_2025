@@ -26,10 +26,6 @@ site:
     logo_text: "Análisis Educativo"
     show_powered_by: false
     collapse_navbar: false
-  style:
-    primary: "#1A6FC4"
-  static_files:
-    - custom.css
 
 execution:
   allow_errors: false
